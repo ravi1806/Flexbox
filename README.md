@@ -1,4 +1,4 @@
-# Flexbox
+# Flexbox by [Wes Bos](https://flexbox.io/) 
 
 ## Flex-direction 
 
