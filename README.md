@@ -37,11 +37,11 @@
 
 ```css
 
-    /*justify-content: flex-start; default*/
-    /*justify-content: flex-end;*/
-    /*justify-content: center;*/
-    /*justify-content: space-between;*/
-    /*justify-content: space-around;*/
+    justify-content: flex-start; /*default*/
+    justify-content: flex-end;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
 ```
 #### To align vertically
 
