@@ -51,6 +51,17 @@
     justify-content: center; /*now the divs are aligned vertically in the center*/
 ```
 
+## Flex-alignment with align-items
 
+* Works on containers
+* Works on cross axis(!important point to notice) cos align-items:center wont work on main axis.
 
+```css
+     align-items: stretch; /*default*/
+     align-items: center; /*this aligns the item across the cross axis, not the main axis, so give container some height*/
+     height: 100vh; /*Without height it wont be able to center across the cross axis.*/
+     align-items: flex-end;
+     align-items: baseline; /*will align to the base of the text in each box*/
+```
+}
 
