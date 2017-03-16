@@ -43,7 +43,7 @@
     /*justify-content: space-between;*/
     /*justify-content: space-around;*/
 ```
-### To align vertically
+#### To align vertically
 
 ```css
     min-height: 100vh; /*Givin it height > contents is necessary else the container will end as soon as items are enclosed.*/
