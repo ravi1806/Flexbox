@@ -31,7 +31,7 @@
    order: SOMENUMERICALVALUE;
 ```
 
-## Flex-alignment 
+## Flex-alignment with justiy-content
 
 * Works on containers
 
