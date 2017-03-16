@@ -31,5 +31,26 @@
    order: SOMENUMERICALVALUE;
 ```
 
+## Flex-alignment 
+
+* Works on containers
+
+```css
+
+    /*justify-content: flex-start; default*/
+    /*justify-content: flex-end;*/
+    /*justify-content: center;*/
+    /*justify-content: space-between;*/
+    /*justify-content: space-around;*/
+```
+### To align vertically
+
+```css
+    min-height: 100vh; /*Givin it height > contents is necessary else the container will end as soon as items are enclosed.*/
+    flex-direction: column; /*change main axis from top to bottom*/
+    justify-content: center; /*now the divs are aligned vertically in the center*/
+```
+
+
 
 
