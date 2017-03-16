@@ -63,5 +63,5 @@
      align-items: flex-end;
      align-items: baseline; /*will align to the base of the text in each box*/
 ```
-}
+
 
