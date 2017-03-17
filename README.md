@@ -63,5 +63,19 @@
      align-items: flex-end;
      align-items: baseline; /*will align to the base of the text in each box*/
 ```
+## Flex-alignment with align-contents
 
+* Works on containers
+* Works only on cross axis
+* needs wrap
+
+```css
+    flex-wrap: wrap; /*align content requires wrap around to work*/
+    align-content: stretch; /*default*/
+    align-content: flex-start;
+    align-content: flex-end;
+    align-content: space-between;
+    align-content: space-around;
+    align-content: center;
+```
 
