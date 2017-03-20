@@ -93,5 +93,17 @@
      align-self: flex-end;
     }
 ```
+## Flex-size
 
+* Works on flex-items
+* Works on main axis
 
+```css
+ .box{
+	flex: 1; /* will make all boxes with class box of equal size and stretch full horizontally */
+  }
+ 
+ .box2 {
+	flex: 2 /* Make box2 double the size */
+ }
+```
