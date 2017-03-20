@@ -67,6 +67,7 @@
 
 * Works on containers
 * Works only on cross axis
+* Removes previously defined heights on boxes 
 * needs wrap
 
 ```css
