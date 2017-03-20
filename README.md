@@ -79,4 +79,19 @@
     align-content: space-around;
     align-content: center;
 ```
+## Flex-alignment with align-self
+
+* Works on flex items.
+* Wors on cross axis
+* Removes previously defind heights on items
+
+```css 
+   .box1 {
+     align-self: stretch;
+     align-self: flex-start;
+     align-self: center;
+     align-self: flex-end;
+    }
+```
+
 
